@@ -1,0 +1,17 @@
+node_modules/**/*
+.yarn/
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+constants.ts
+
+# macOS
+.DS_Store

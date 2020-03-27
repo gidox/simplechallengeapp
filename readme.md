@@ -1,10 +1,11 @@
-# Getting Started
+# Simple App Challenge
+## Getting Started
 
 Install global dependencies:
 npm install -g expo-cli
 
 
-## Installation
+### Installation
 
 - clone this repo
 - run yarn
